@@ -18,3 +18,5 @@ title: Contact Us
 ### 微信公众号：
 清凉无汗
 
+
+![gzh](/../assets/img/gzh.PNG)
