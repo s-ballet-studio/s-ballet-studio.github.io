@@ -19,4 +19,4 @@ title: Contact Us
 清凉无汗
 
 
-![gzh](/../assets/img/gzh.PNG)
+![gzh](/../assets/img/gzh.png)
