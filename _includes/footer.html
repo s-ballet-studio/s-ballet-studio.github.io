@@ -11,8 +11,8 @@
 </footer>
 
 <script>
-    const navLi = document.querySelectorAll('.nav-click ul li');
-    navLi.forEach(li => {
-        li.addEventListener('click', evt => li.querySelector('a').click());
+    var navLi = document.querySelectorAll('.nav-click ul li');
+    navLi.forEach(function(li){
+        li.addEventListener('click', function(evt) { li.querySelector('a').click();});
     });
 </script>
