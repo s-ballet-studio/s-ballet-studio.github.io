@@ -19,9 +19,9 @@ body {
     /* background-image: url('../image/bruno-horwath-692469-unsplash.jpg'); */
     background-repeat: repeat;
     background-size: contain;
-    background-color: rgba(255, 255, 255, .35);
+    /* background-color: rgba(255, 255, 255, .35);
     background-blend-mode: lighten;
-    filter: Alpha(opacity = 35);
+    filter: Alpha(opacity = 35); */
     position: static;
     zoom: 1;
 
