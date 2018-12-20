@@ -12,7 +12,7 @@
 
 <script>
     var navLi = document.querySelectorAll('.nav-click ul li');
-    navLi.forEach(function(li){
+    Array.prototype.forEach.call(navLi, function(li){
         li.addEventListener('click', function(evt) { li.querySelector('a').click();});
     });
 </script>
