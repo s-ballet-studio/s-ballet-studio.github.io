@@ -27,7 +27,7 @@
 
 
 
-        <section id="main_content" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; text-indent:2rem; float:left;min-height:49rem;">
+        <section id="main_content">
           {{ content }}
 
         </section>
@@ -36,7 +36,7 @@
 
           {% if category.size > 0 %}
           {% assign cate = category[0] %}
-          {% capture category_content %}<a class="label" href="{{ cate.url }}" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size:small; color:darkorange;">{{
+          {% capture category_content %}<a class="label" href="{{ cate.url }}" style="font-size:small; color:darkorange;">{{
             cate.name }}</a>{% endcapture %}
           {% endif %}
 
