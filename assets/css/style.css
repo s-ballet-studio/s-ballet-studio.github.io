@@ -1,6 +1,9 @@
 /* @import "{{ site.theme }}"; */
 
 
+i.fa{
+    padding-right: .5rem;
+}
 body {
     margin: 0;
     /* background-image: url('../img/sergei-gavrilov-528341-unsplash.jpg'); */
@@ -42,7 +45,7 @@ section#cate-tags {
 #main_content_wrap p img[alt="school_map"] {
     width: 50%;
     float: right;
-    margin-right: 5rem;
+    margin-right: .5rem;
 
 
 }
@@ -153,11 +156,25 @@ li {
     /* background: darkorange; */
     display: block;
     float: left;
-    padding: 1.5rem;
+    padding: 1.3rem;
     position: relative;
     text-decoration: none;
     transition-duration: 0.5s;
 }
+
+@media only screen and (max-width: 600px) {
+    .mobile-hide{ display: none !important; }
+    li {
+        padding: 1rem;
+    }
+    li ul.dropdown li{
+        padding: 1rem;
+    }
+
+    
+ }
+
+
 
 li a {
     color: #fff;
@@ -185,7 +202,7 @@ ul li ul {
     width: 100%;
     position: absolute;
     transition: all 0.5s ease;
-    margin-top: 1.5rem;
+    margin-top: 1.3rem;
     left: 0;
     display: none;
     font-size: 1.2rem;
