@@ -11,7 +11,7 @@ title: Contact Us
 13916966995
 
 ### 邮箱地址：
-workshop@outlook.com
+sballetws@outlook.com 
 
 ### 微信公众号：
 清凉无汗
