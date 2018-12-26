@@ -6,6 +6,8 @@ title: 价目表
 
 请扫描下面二维码
 
+![gzh](/../assets/img/gzh.png)
+
 
 ## 注意事项:
 
