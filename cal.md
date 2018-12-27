@@ -1,5 +1,6 @@
 ---
-title: cal_layout
+layout: cal_layout
+title: cal
 ---
 
 # cal
