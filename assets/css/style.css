@@ -37,6 +37,10 @@ body {
     line-height: 1.5rem;
 }
 
+#body-container #calendar.fc.fc-unthemed.fc-ltr{
+    color:goldenrod;
+}
+
 section#cate-tags {
     float:left;
 
