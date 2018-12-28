@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8' />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,maximum-scale=2">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+
+  <link rel="stylesheet" href="/assets/css/fullcalendar.min.css" />
+  <link rel="stylesheet" media="print" href="/assets/css/fullcalendar.print.min.css" />
+  <script src="/assets/css/moment.min.js"></script>
+  <script src="/assets/css/jquery.min.js"></script>
+  <script src="/assets/css/fullcalendar.min.js"></script>
+  <script src="/assets/css/fullcalendar.js"></script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var calendarEl = document.getElementById('calendar');
+
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        header: {
+          left: 'prev,next today',
+          center: 'title',
+          right: 'month,basicWeek,basicDay'
+        },
+        // defaultDate: '2018-12-12',
+        navLinks: true, // can click day/week names to navigate views
+        editable: true,
+        eventLimit: true, // allow "more" link when too many events
+        events: [{
+            title: 'Level 0',
+            start: '10:00',
+            end: '11:30',
+            dow: [6],
+            startRecur: '2018-12-01',
+            endRecur: '2018-12-22'
+          },
+          // {
+          //   title: 'Level 1',
+          //   start: '11:30',
+          //   end: '13:00',
+          //   dow: [6],
+          //   startRecur: '2018-12-01T00:00:00',
+          //   endRecur: '2018-12-22T00:00:00'
+          // },
+          // {
+          //   title: 'Level 0',
+          //   id: 1,
+          //   start: '17:30',
+          //   end: '19:00',
+          //   dow: [3],
+          //   // ranges:[
+          //   //   // {startRecur: '2018-12-01', endRecur: '2018-12-30'},
+          //   //   {recurstart: '2018-12-01', recurend: '2018-12-30'},
+          //   // ],
+
+          // },
+          // {
+          //   title: 'Level 0',
+          //   start: '2018-12-30T10:00:00',
+          //   end: '2018-12-30T11:30:00'
+          // },
+          // {
+          //   title: 'Level 1',
+          //   start: '2018-12-30T11:30:00',
+          //   end: '2018-12-30T13:00:00'
+          // }
+        ]
+      });
+
+      calendar.render();
+    });
+  </script>
+  <style>
+    body {
+      margin: 40px 10px;
+      padding: 0;
+      font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+      font-size: 14px;
+    }
+
+    #calendar {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="body-container">
+    <!-- HEADER -->
+
+    {% include nav.html %}
+
+    <div id='calendar'></div>
+
+    <!-- FOOTER  -->
+
+    {% include footer.html %}
+  </div>
+
+
+</body>
+
+</html>

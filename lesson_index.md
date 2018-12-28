@@ -9,3 +9,4 @@ title: 课程介绍
 3. [高级课程](/lesson_level_2)
 4. [术语](/terminology)
 5. [价目表](/price)
+6. [教室日历](/cal)
