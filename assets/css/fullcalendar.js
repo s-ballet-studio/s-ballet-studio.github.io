@@ -15507,6 +15507,7 @@ recurring_event_1.registerRecurringType({
 });
 function expandRanges(daysOfWeek, startTime, recurRange, framingRange, dateEnv) {
     framingRange = date_range_1.intersectRanges(framingRange, recurRange);
+    if (framingRange === null) { return []; }
     var dowHash = daysOfWeek ? object_1.arrayToHash(daysOfWeek) : null;
     var dayMarker = marker_1.startOfDay(framingRange.start);
     var endMarker = framingRange.end;
