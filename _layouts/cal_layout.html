@@ -38,7 +38,18 @@
                 var timeStr = data[i].start;
                 if (!isNaN(d)) {
                   var dd = new Date(d);
-                  timeStr = dd.getHours() +':'+dd.getMinutes();
+                  dd = convertUTCDateToLocalDate(dd);
+                  var h = dd.getHours();
+                  var hh = h.toString();
+                  if (h < 10) {
+                    hh = '0'+hh;
+                  }
+                  var min = dd.getMinutes();
+                  var mm = min.toString();
+                  if (min < 10) {
+                    mm = '0'+ mm;
+                  }
+                  timeStr = hh +':'+mm;
                 }
                 data[i].title = timeStr + ' ' + data[i].title;
               }
@@ -68,6 +79,17 @@
 
 
     };
+
+    function convertUTCDateToLocalDate(date) {
+      var newDate = new Date(date.getTime()+date.getTimezoneOffset()*60*1000);
+  
+      var offset = date.getTimezoneOffset() / 60;
+      var hours = date.getHours();
+  
+      newDate.setHours(hours - offset);
+  
+      return newDate;   
+  }
   </script>
   <style>
     body {
