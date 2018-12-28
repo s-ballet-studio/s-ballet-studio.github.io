@@ -1,0 +1,27 @@
+[{
+    "title": "Level 0",
+    "start": "10:00",
+    "end": "11:30",
+    "daysOfWeek": [6],
+    "startRecur": "2019-01-01",
+    "endRecur": "2018-01-31",
+    "color": "#ff9f89"
+  },
+  {
+    "title": "Level 1",
+    "start": "11:30",
+    "end": "13:00",
+    "daysOfWeek": [6],
+    "startRecur": "2019-01-01",
+    "endRecur": "2018-01-31"
+  },
+  {
+    "title": "Level 0",
+    "start": "17:30",
+    "end": "19:00",
+    "daysOfWeek": [3],
+    "startRecur": "2019-01-01",
+    "endRecur": "2018-01-31",
+    "color": "#257e4a"
+  }
+]
