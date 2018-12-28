@@ -1,6 +1,6 @@
 ---
 layout: cal_layout
-title: cal
+title: 教室日历
 ---
 
 

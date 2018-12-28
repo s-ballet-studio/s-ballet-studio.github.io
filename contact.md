@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: 联系我们
 ---
 
 ### 教室地址：
