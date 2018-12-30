@@ -50,4 +50,18 @@ title: 教室日志
       </li>
     </ul>
   </div>
+  
 {% endif %}
+
+<form action="https://www.bing.com/search">
+    <input  class="search" id="search-text" type="text" name="q" placeholder="Search with Bing..." required>
+    <input id="search" class="button" type="submit" value="Search">
+</form>
+<script>
+  document.getElementById('search').onclick = function() {
+
+    var searchText = encodeURIComponent(document.getElementById('search-text').value +  ' site:'+window.location.host);
+    window.open('https://www.bing.com/?q='+searchText);
+    return false;
+  }
+</script>
