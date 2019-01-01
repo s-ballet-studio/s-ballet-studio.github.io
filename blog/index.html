@@ -52,23 +52,6 @@ title: 教室日志
   </div>
   
 {% endif %}
-<div style="float:right">
-  <input type="text" id="search-input" placeholder="搜索博文.." class="search">
-  <br/>
-  <div id="results-container"></div>
-</div>
-<script src="https://unpkg.com/simple-jekyll-search@1.5.0/dest/simple-jekyll-search.min.js"></script>
-
-<script>
-    SimpleJekyllSearch({
-      "searchInput": document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/assets/data/search.json',
-      searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>',
-      noResultsText: '没有相关博文'
-    })
-</script>
-
 <!-- <form action="https://www.bing.com/search">
     <input  class="search" id="search-text" type="text" name="q" placeholder="Search with Bing..." required>
     <input id="search" class="button" type="submit" value="Search">

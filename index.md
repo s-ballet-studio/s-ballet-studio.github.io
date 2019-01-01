@@ -1,5 +1,6 @@
 ---
 title: S Ballet Studio
+layout: search
 ---
 
 # S Ballet Studio
