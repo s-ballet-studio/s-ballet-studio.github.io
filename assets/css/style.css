@@ -42,6 +42,7 @@ body {
     color: goldenrod;
 }
 
+
 section#cate-tags {
     float: left;
 
@@ -98,7 +99,7 @@ section#cate-tags {
     height: 1.5rem;
 }
 
-#results-container ul{
+ul#results-container{
     margin-left: 2.5rem;
     color: white;
 }
