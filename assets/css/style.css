@@ -98,8 +98,14 @@ section#cate-tags {
     height: 1.5rem;
 }
 
+#results-container ul{
+    margin-left: 2.5rem;
+    color: white;
+}
+
 #results-container li{
     padding-left: 5rem;
+
 }
 
 #results-container li a{
