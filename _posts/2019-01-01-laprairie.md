@@ -113,11 +113,13 @@ last_modified_at: 2019-01-01T00:00:00+00:00
 2、 聚会的不多上图了，就贴两张的乔嫂(Amal Clooney)的。
 
 ![xg6](/../assets/img/2019-01-01/GettyImages-955747386.jpg)
+
 -- by KEVIN MAZUR/MG18/GETTY IMAGES
 
 上图是她参加2018 Met Gala的扮相，Richard Quinn的真丝长裤加上这么drama的搭配很受好评；不过我还是更喜欢下面这套。妹子们要是不知道年会可以穿什么，这套可以好好借鉴一下啊。
 
 ![xg7](/../assets/img/2019-01-01/gettyimages-499835590.jpg)
+
 -- by MARK ROBERT MILAN/GETTY IMAGES
 
 <hr>
