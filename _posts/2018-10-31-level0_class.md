@@ -64,3 +64,11 @@ last_modified_at: 2018-10-31T00:00:00+00:00
 好的零基础老师，太难得了。
 
 各位如果遇到靠谱的零基础老师，一定记得分享给大家。
+
+<hr>
+
+本号内容未经允许不可转载，但欢迎转发到朋友圈。
+
+![gzh](/../assets/img/gzh.png)
+
+公众号原文链接请[戳这里](https://mp.weixin.qq.com/s/hcp0SKx2-dZgvpE7R4Q0FA)

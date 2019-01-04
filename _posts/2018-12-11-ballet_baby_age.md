@@ -15,13 +15,13 @@ last_modified_at: 2018-12-11T00:00:00+00:00
 
 第一类是专业型
 
-![exp_photo](/../assets/img/exp_type.JPG)
+![exp_photo](/../assets/img/2018-12-11/exp_type.JPG)
 
 希望孩子以后做一个专业舞者，以舞蹈为生。有这一类想法的家长我觉得为数不多，毕竟大家都知道职业地从事舞蹈这一行还是很艰辛的。但是问题的答案却恰恰对这一类尤为重要，所以放到最后说。
 
 第二类是爱好型
 
-![girls_ballet](/../assets/img/girls_ballet.JPG)
+![girls_ballet](/../assets/img/2018-12-11/girls_ballet.JPG)
 
 和报其他各种五花八门的学习班一样，没有特别的诉求，觉得孩子能多个技能总不是坏事，如果能考个级加个分什么的那就更好了。
 
@@ -31,7 +31,7 @@ last_modified_at: 2018-12-11T00:00:00+00:00
 
 第三类是任性型
 
-![boy_ballet](/../assets/img/boy_ballet.JPG)
+![boy_ballet](/../assets/img/2018-12-11/boy_ballet.JPG)
 
 这一类是我最欣赏的：人家上课都是花钱让孩子学本领，他们带孩子来上课只是为了花钱买他们的自由。一节课一般90分钟，他们只想拥有这90分钟的清闲时光，喝咖啡也好，看本（shou）书（ji）也好，哪怕用来发呆也是好的。
 
@@ -51,7 +51,7 @@ RAD（Royal Academy of Dance，俗称：“英皇芭蕾”）体系，的确是�
 
 所以如果有机构认真奉行RAD的理念，而这一理念又契合你的认知，价格你也觉得合适，让宝贝早点开始接触舞蹈并喜欢上舞蹈当然是极好的啦。而且说真的，小宝贝们穿体服真的太可爱了。
 
-![baby_girls](/../assets/img/baby_girls.JPG)
+![baby_girls](/../assets/img/2018-12-11/baby_girls.JPG)
 
 最后就是“专业型”了，如果此时你还未弃文，说明你是真的有想过让孩子走专业这条路。那我的建议是可以不用早于六岁。
 
@@ -59,4 +59,12 @@ RAD（Royal Academy of Dance，俗称：“英皇芭蕾”）体系，的确是�
 
 当然我并不是鼓励大家越晚开始越好，只是过早地接受舞蹈训练对孩子长远的发展来看并不是好事。当然这里面的细节可以另写一篇文章了。想看的可以留言告诉我哦。
 
-![girls_baby_end](/../assets/img/girls_baby_end.JPG)
+![girls_baby_end](/../assets/img/2018-12-11/girls_baby_end.JPG)
+
+<hr>
+
+本号内容未经允许不可转载，但欢迎转发到朋友圈。
+
+![gzh](/../assets/img/gzh.png)
+
+公众号原文链接请[戳这里](https://mp.weixin.qq.com/s/ITV-LKjwk5viMnlsqhtRaw)
