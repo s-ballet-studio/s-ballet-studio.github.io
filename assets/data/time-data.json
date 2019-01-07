@@ -16,7 +16,7 @@
   "endRecur": "2018-12-28"
 },
 {
-  "title": "Level 0",
+  "title": "Level 1",
   "start": "17:30",
   "end": "19:00",
   "daysOfWeek": [3],
@@ -48,7 +48,7 @@
   "endRecur": "2019-12-31"
 },
 {
-  "title": "Level 0",
+  "title": "Level 1",
   "start": "17:30",
   "end": "19:00",
   "daysOfWeek": [3],
