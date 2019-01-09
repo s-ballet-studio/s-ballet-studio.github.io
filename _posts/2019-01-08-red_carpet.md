@@ -2,7 +2,7 @@
 layout: post
 title: 红毯|美人和车祸现场并重的第76届金球奖
 description: 
-category: beauty_pro
+category: fashion
 tags: [gossip, fun]
 last_modified_at: 2019-01-08T00:00:00+00:00
 ---
@@ -108,7 +108,7 @@ __Constance Wu__ in custom Vera Wang Collection
 
 她的摘金奇缘(Crazy Rich Asians)和Gaga的(A Star is Born)是我唯二看过的入围影片。去年上映的时候热得不得了，害我满心期待地坐等。可是看到一半我就找手机了，太老套平淡了。
 
-我还是更喜欢她的初来乍到(Freshoff the Boat)，追了四季。新的一季一直没时间看，哎。
+我还是更喜欢她的[初来乍到](https://en.wikipedia.org/wiki/Fresh_Off_the_Boat)(Freshoff the Boat)，追了四季。新的一季一直没时间看，哎。
 
   
 __Regina King__ in custom Alberta Ferretti
@@ -314,6 +314,7 @@ __D'Arcy Carden__ carrying Edie Parker
 <hr>
 
 ### __西瓜__
+
 
 1.新年夜小贝(David Beckham)一家在他们位于科茨沃尔德(Cotswolds)的大房子（下图）里开了个趴体，花了三万镑。
 
