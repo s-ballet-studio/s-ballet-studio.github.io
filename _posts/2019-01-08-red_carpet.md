@@ -19,6 +19,7 @@ last_modified_at: 2019-01-08T00:00:00+00:00
 吴珊卓
 
 __Sandra__ Oh in Versace
+
 ![2](/../assets/img/2019-01-08/2-sandra-oh-inVersace.jpg)
 
 这条战袍蛮有旧时好莱坞的感觉，大钻配饰和发型也是相得益彰。
@@ -219,7 +220,135 @@ __Felicity Huffman__ in Laura Basci and __William H. Macy__
 
 他俩认识快四十年了，她对他一见钟情，但由于自己一直恐婚，直到1997年才答应了他的求婚，现在感觉还是很甜。
 
-to to continue...
+
+陈静
+
+__Gemma Chan__ in Valentino couture
+
+![31](/../assets/img/2019-01-08/31.jpg)
+
+在[CRA](https://en.wikipedia.org/wiki/Crazy_Rich_Asians)里看起来各种别扭，还是这身好，鞋子我大爱。
+
+后背也媚媚的。
+
+![32](/../assets/img/2019-01-08/32.jpg)
+
+
+__Kiki Layne__ in custom Christian Dior and Bulgari
+
+![33](/../assets/img/2019-01-08/33.jpg)
+
+美！
+
+以Kiki作为美人的收尾再合适不过了。接下来是我个人觉得的车祸现场，不喜随便喷。
+
+
+__Gina Rodriguez__ in Reem Acra and Chopard jewelry
+
+![34](/../assets/img/2019-01-08/34.jpg)
+
+平胸配深V才是王道，像Gina这样稍微有点料再加上朝向问题，分分钟车祸现场。笑容还是甜甜哒。
+
+
+刘玉玲
+
+__Lucy Liu__ in Galia Lahav and Tyler Ellis
+
+![35](/../assets/img/2019-01-08/35.jpg)
+
+娇娃这是肿么了？
+
+
+__Julianne Moore__ in Givenchy Haute Couture and Chopard jewelry
+
+![36](/../assets/img/2019-01-08/36.jpg)
+
+这起事故我怪角度。
+
+
+__Anne Hataway__ in Elie Saab and Jimmy Choo shoes
+
+![37](/../assets/img/2019-01-08/37.jpg)
+
+看到这身的第一反应是：海瑟薇是疯了吗？ 
+
+好吧，应该是胖了。
+
+![38](/../assets/img/2019-01-08/38.jpg)
+
+
+__Jameela Jamil__ in Monique Lhuillier
+
+![39](/../assets/img/2019-01-08/39.jpg)
+
+浓浓的九十年代影楼风，而且是自带床单的那种。
+
+
+__Alyssa Milano__ in custom Cristina Ottaviano, Yeprem jewelry, and Tyler Ellis clutch
+
+![40](/../assets/img/2019-01-08/40.jpg)
+
+髋骨下多出的一块到底是为了啥？
+
+
+__Sofia Carson__ in Giambattista Valli and Samer Halimeh jewelry
+
+![41](/../assets/img/2019-01-08/41.jpg)
+
+跟造型师有仇吗？
+
+
+__Janelle Monáe__ in Channel
+
+![42](/../assets/img/2019-01-08/42.jpg)
+
+请容我收回刚刚对Sofia的那个问题。
+
+
+__D'Arcy Carden__ carrying Edie Parker
+
+![43](/../assets/img/2019-01-08/43.jpg)
+
+不懂。
+
+<hr>
+
+### __西瓜__
+
+1.新年夜小贝(David Beckham)一家在他们位于科茨沃尔德(Cotswolds)的大房子（下图）里开了个趴体，花了三万镑。
+
+![44](/../assets/img/2019-01-08/44.jpg)
+
+小贝晒了一段视频，然后肢体语言专家Judi James认为从截图中看，夫妻俩已经没什么激情，这个亲吻更像是小贝和小七之间家人式的亲亲。
+
+![45](/../assets/img/2019-01-08/45.jpg)
+
+我想说，他们的大儿子都19了，难道还要他俩腻得跟19岁的热恋一样吗？唉，何苦呢……
+
+两人都晒了聚会上的全家福，很暖很甜啊。我要是有这么多孩子，谁还管男人爱不爱我。
+
+![46](/../assets/img/2019-01-08/46.jpg)
+
+
+2.霉霉(Taylor Swift)和男朋友Joe Alwyn手牵手去参加金球奖结束后的Afterparty(一定要翻译的话可以说是“庆功宴”，但是其实就是主办方找个借口打广告，明星们找个借口一起嗨)。
+
+![47](/../assets/img/2019-01-08/47.jpg)
+
+哎呦喂，这身高比、这娇羞样……我看得都好想谈恋爱啊。
+
+
+3.无意中看到这组Poppy Delevingne上个月出席NGV Gala的照片，礼服来自Paolo Sebastian Couture，白得发光啊。
+
+![48](/../assets/img/2019-01-08/48.jpg)
+
+我觉得她比她名模妹妹Cara更好看。
+
+![49](/../assets/img/2019-01-08/49.jpg)
+
+近照有点小瑕疵，不过无伤大雅，这才叫女神，好不好。
+
+![50](/../assets/img/2019-01-08/50.jpg)
+
 
 <hr>
 
@@ -229,8 +358,8 @@ to to continue...
 
 想看更多红毯车祸就不要忘了关注一心想要避免车祸的的公众号“清凉无汗”，长按下面的二维码即可。本号内容未经允许不可转载，但欢迎转发到朋友圈。
 
-想看往期内容，点击右上角"●●●"后的"查看公众号"，全部消息任你翻。
+想看往期内容，点击公众号原文右上角"●●●"后的"查看公众号"，全部消息任你翻。
 
 ![gzh](/../assets/img/gzh.png)
 
-公众号原文链接请[戳这里](https://mp.weixin.qq.com/s/jAY1hnSgAHpmUYg-sAGeuw)
+公众号原文链接请[戳这里](https://mp.weixin.qq.com/s/GITwOo5yt_IKjHw1qwPHDQ)
