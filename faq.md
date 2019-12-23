@@ -21,3 +21,4 @@ For male students - White T-shirt, black leggings or shorts and ballet shoes. 
 
 ![tifu](/../assets/img/faq_tifu_request.jpg)
 
+![tifu_male](/../assets/img/faq_tifu_request_male.jpg)
