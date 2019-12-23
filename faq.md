@@ -2,23 +2,21 @@
 title: FAQ
 ---
 
-### 上课服装要求
+### 服装要求
 
 
-请按图准备好体服。
+女生：体服、浅色大袜、软底鞋；最低限度：运动型紧身裤（legging亦可，但不要穿阔腿裤）和贴身的上衣。发型：盘头。
 
-最低限度是软底鞋，大袜（运动型紧身裤、legging亦可，但不要穿阔腿裤）和贴身的上衣。
+男生：如图即可
 
 谢谢配合。
 
 
-### Dress Code in Class
+### Attire
 
-Please dress according to the photo. 
+For female students - Leotards, skirts (optional), pink tights or similar color and ballet shoes; Alternatively, T-shirts, leggings also acceptable. Hair: Ballet bun.
 
-Leotards in any style or color are welcomed, while the tights need to be white or similar.
-
-Thanks for your cooperation.  
+For male students - White T-shirt, black leggings or shorts and ballet shoes. 
 
 
 ![tifu](/../assets/img/faq_tifu_request.jpg)
