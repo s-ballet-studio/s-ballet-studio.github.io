@@ -2,8 +2,8 @@
 layout: post
 title: W•芭蕾公社|释疑
 description: 
-category: thoughts
-tags: [pointe]
+category: class
+tags: [notice]
 last_modified_at: 2020-05-12T00:00:00+00:00
 ---
 
